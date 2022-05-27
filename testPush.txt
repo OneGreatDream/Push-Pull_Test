@@ -1,5 +1,0 @@
-hello world
-this is my first try to test push file to GitHub.
-I is not good at English!
-I know this file has very much problems
-but I will continue work hard!!
